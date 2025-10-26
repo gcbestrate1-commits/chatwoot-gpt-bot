@@ -1,0 +1,14 @@
+{
+  "name": "chatwoot-gpt-bot",
+  "version": "1.0.0",
+  "description": "Chatwoot GPT bot that replies in English",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.4"
+  }
+}
